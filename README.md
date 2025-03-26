@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello
 
-<!--
-**LeGarbage/legarbage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer on GitHub
 
-Here are some ideas to get you started:
+### Things I'm doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some things that I'm working on right now
+
+- **Automation**
+    - There is no better feeling watching all of the boring stuff get done so I can focus on more important things
+
+- **Games**
+    - Why play a video game when you can make one?
+
+- **Other things**
+    - Whatever happens to intrigue me at the moment
