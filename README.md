@@ -1,16 +1,19 @@
 ## Hello
 
-I am a developer on GitHub
+I use Arch btw
+I use Neovim btw
 
 ### Things I'm doing
 
 Some things that I'm working on right now
 
-- **Automation**
-    - There is no better feeling watching all of the boring stuff get done so I can focus on more important things
+- **Neovim**
+    - I can't stop editing my config someone please help me
 
-- **Games**
-    - Why play a video game when you can make one?
+- **C**
+    - I LOVE POINTERS I LOVE POINTERS I LOVE POINTERS I LOVE POINTERS
 
 - **Other things**
     - Whatever happens to intrigue me at the moment
+
+Did I mention that I use Arch and Neovim btw?
