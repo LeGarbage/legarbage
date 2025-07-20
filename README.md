@@ -1,8 +1,5 @@
 ## Hello
 
-I use Arch btw
-I use Neovim btw
-
 ### Things I'm doing
 
 Some things that I'm working on right now
@@ -15,5 +12,3 @@ Some things that I'm working on right now
 
 - **Other things**
     - Whatever happens to intrigue me at the moment
-
-Did I mention that I use Arch and Neovim btw?
